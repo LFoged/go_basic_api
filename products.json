@@ -1,0 +1,122 @@
+[
+  {
+    "productId": 1,
+    "manufacturer": "Johns-Jenkins",
+    "quantity": 9703,
+    "productName": "sticky note"
+  },
+  {
+    "productId": 2,
+    "manufacturer": "Hessel, Schimmel and Feeney",
+    "quantity": 9217,
+    "productName": "leg warmers"
+  },
+  {
+    "productId": 3,
+    "manufacturer": "Swaniawski, Bartoletti and Bruen",
+    "quantity": 5905,
+    "productName": "lamp shade"
+  },
+  {
+    "productId": 4,
+    "manufacturer": "Runolfsdottir, Littel and Dicki",
+    "quantity": 2642,
+    "productName": "flowers"
+  },
+  {
+    "productId": 5,
+    "manufacturer": "Kuhn, Cronin and Spencer",
+    "quantity": 6144,
+    "productName": "clamp"
+  },
+  {
+    "productId": 6,
+    "manufacturer": "Quigley, Casper and Boyer",
+    "quantity": 6507,
+    "productName": "twister"
+  },
+  {
+    "productId": 7,
+    "manufacturer": "Gutmann and Sons",
+    "quantity": 4348,
+    "productName": "clay pot"
+  },
+  {
+    "productId": 8,
+    "manufacturer": "Bins-Hansen",
+    "quantity": 4577,
+    "productName": "tooth picks"
+  },
+  {
+    "productId": 9,
+    "manufacturer": "Jones, Braun and Ratke",
+    "quantity": 1882,
+    "productName": "mirror"
+  },
+  {
+    "productId": 10,
+    "manufacturer": "Upton-Mraz",
+    "quantity": 4036,
+    "productName": "rug"
+  },
+  {
+    "productId": 11,
+    "manufacturer": "Schneider, Douglas and Franecki",
+    "quantity": 2285,
+    "productName": "headphones"
+  },
+  {
+    "productId": 12,
+    "manufacturer": "Weimann, Waelchi and Kassulke",
+    "quantity": 5409,
+    "productName": "balloon"
+  },
+  {
+    "productId": 13,
+    "manufacturer": "Moore-Gibson",
+    "quantity": 6219,
+    "productName": "lip gloss"
+  },
+  {
+    "productId": 14,
+    "manufacturer": "Schuppe, Cummerata and Hammes",
+    "quantity": 1104,
+    "productName": "sidewalk"
+  },
+  {
+    "productId": 15,
+    "manufacturer": "Ward-Quigley",
+    "quantity": 9371,
+    "productName": "pen"
+  },
+  {
+    "productId": 16,
+    "manufacturer": "Cassin Inc",
+    "quantity": 5382,
+    "productName": "outlet"
+  },
+  {
+    "productId": 17,
+    "manufacturer": "Shanahan Inc",
+    "quantity": 4567,
+    "productName": "blanket"
+  },
+  {
+    "productId": 18,
+    "manufacturer": "Upton-Runolfsdottir",
+    "quantity": 7083,
+    "productName": "lotion"
+  },
+  {
+    "productId": 19,
+    "manufacturer": "Lubowitz Group",
+    "quantity": 2224,
+    "productName": "socks"
+  },
+  {
+    "productId": 20,
+    "manufacturer": "Padberg, Grady and Mueller",
+    "quantity": 4544,
+    "productName": "CD"
+  }
+]
