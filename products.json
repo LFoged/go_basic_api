@@ -118,5 +118,35 @@
     "manufacturer": "Padberg, Grady and Mueller",
     "quantity": 4544,
     "productName": "CD"
+  },
+  {
+    "productId": 21,
+    "manufacturer": "Cassin Inc",
+    "quantity": 5382,
+    "productName": "outlet"
+  },
+  {
+    "productId": 22,
+    "manufacturer": "Armour dank",
+    "quantity": 3422,
+    "productName": "socks"
+  },
+  {
+    "productId": 23,
+    "manufacturer": "Chedda-chelupa",
+    "quantity": 10092,
+    "productName": "cream"
+  },
+  {
+    "productId": 24,
+    "manufacturer": "Stovawitz Hammer",
+    "quantity": 38992,
+    "productName": "burners"
+  },
+  {
+    "productId": 25,
+    "manufacturer": "Frank Mueller",
+    "quantity": 4899,
+    "productName": "grnfthr"
   }
 ]
